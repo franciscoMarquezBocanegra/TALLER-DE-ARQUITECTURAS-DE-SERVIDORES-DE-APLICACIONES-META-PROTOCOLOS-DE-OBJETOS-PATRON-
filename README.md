@@ -76,6 +76,7 @@ Aqui nos debera de cargar la siguiente pagina, con la cual podemos empezar a hac
 
 # Documentos PNG
 
+![image](https://github.com/franciscoMarquezBocanegra/TALLER-DE-ARQUITECTURAS-DE-SERVIDORES-DE-APLICACIONES-META-PROTOCOLOS-DE-OBJETOS-PATRON-/assets/98216991/5e028c17-1ea5-465e-984c-4bb517559db7)
 
 
 
